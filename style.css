@@ -1,5 +1,6 @@
 .box1 {
   position: sticky;
   top: 0;
-  background: green;
+  background-color: green;
+  height:40%;
 }
