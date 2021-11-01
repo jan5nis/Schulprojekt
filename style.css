@@ -1,8 +1,7 @@
 .box1 {
   position: fixed;
   top: 0px;
-  background-color:#249428 ;
-  height:10%;
+  background-color:#249428;
   left: 0px;
   overflow: hidden;
 }
